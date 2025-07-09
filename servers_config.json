@@ -1,7 +1,7 @@
 {
     "mcpServers": {
       "amap-amap-sse": {
-        "url": "https://mcp.amap.com/sse?key=5e134c41622f7986b9af6847a2a9b273"
+        "url": "你的高德api-key"
       }
     }
 }
