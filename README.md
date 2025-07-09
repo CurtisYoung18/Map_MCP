@@ -63,6 +63,9 @@ python client.py
 
 AI 会自动理解你的需求，调用合适的高德地图工具，并返回结果。
 
+<img width="1005" alt="image" src="https://github.com/user-attachments/assets/d0da314b-5283-403b-95dc-a4bd465e86a7" />
+
+
 ## 常见问题
 
 1. **ModuleNotFoundError: No module named 'mcp'**
